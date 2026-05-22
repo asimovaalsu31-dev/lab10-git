@@ -1,3 +1,5 @@
 print("Hello Git")
 print("New feature")
 print("Feature B")
+print("Feature A")
+print("Feature A")
